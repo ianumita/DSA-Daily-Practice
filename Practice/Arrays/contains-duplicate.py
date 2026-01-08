@@ -1,6 +1,6 @@
 
-# Time Complixity: 
-# Space Complixity: 
+# Time Complixity: O(n)
+# Space Complixity: O(n)
 
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
